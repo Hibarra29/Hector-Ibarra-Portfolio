@@ -186,4 +186,7 @@ footer ul li {
         flex: auto;
         flex-direction: column;
     }
+     img {
+        height: 60px;
+     }
   }
